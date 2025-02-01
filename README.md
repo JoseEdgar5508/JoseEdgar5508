@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-edgar-ferreira-de-araujo-neto-376489320/)
 
-![EDGAR GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEdgar5508_icons=true&theme=radical)
+![Edgar GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEdgar5508_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEdgar5508_progress=true)
 
 ### Tecnológias do meu dia a dia.
